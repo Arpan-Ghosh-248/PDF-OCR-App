@@ -1,4 +1,4 @@
-# Local PDF OCR Extractor
+# PDF OCR Extractor
 
 A Streamlit-based web application that extracts text from scanned PDF documents using Tesseract OCR and Poppler.
 

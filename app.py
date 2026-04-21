@@ -7,16 +7,16 @@ import os
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="Local PDF OCR Extractor",
+    page_title="PDF OCR Extractor",
     page_icon="📄",
     layout="centered"
 )
 
 # --- UI HEADER ---
-st.title("📄 Local PDF OCR Extractor")
+st.title("📄 PDF OCR Extractor")
 st.markdown("""
 Extract text from scanned PDF documents using Optical Character Recognition (OCR).
-This tool runs entirely on your local machine.
+Upload your file to get started.
 """)
 
 # --- SIDEBAR CONFIGURATION ---
